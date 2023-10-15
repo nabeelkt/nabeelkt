@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Flutter
 
-[![](api?id=nabeelkt&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
