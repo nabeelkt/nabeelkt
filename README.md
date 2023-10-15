@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Flutter
 
-![Visitor Count](https://profile-counter.glitch.me/{nabeelkt}/count.svg)
+[![](https://visitcount.itsvg.in/api?id=nabeelkt&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
